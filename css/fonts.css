@@ -1,0 +1,94 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Black/Lato-Black.eot');
+    src: url('../fonts/Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Black/Lato-Black.woff2') format('woff2'),
+        url('../fonts/Lato-Black/Lato-Black.woff') format('woff'),
+        url('../fonts/Lato-Black/Lato-Black.ttf') format('truetype'),
+        url('../fonts/Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Regular/Lato-Regular.eot');
+    src: url('../fonts/Lato-Regular/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Regular/Lato-Regular.woff2') format('woff2'),
+        url('../fonts/Lato-Regular/Lato-Regular.woff') format('woff'),
+        url('../fonts/Lato-Regular/Lato-Regular.ttf') format('truetype'),
+        url('../fonts/Lato-Regular/Lato-Regular.svg#Lato-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Medium/Lato-Medium.eot');
+    src: url('../fonts/Lato-Medium/Lato-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Medium/Lato-Medium.woff2') format('woff2'),
+        url('../fonts/Lato-Medium/Lato-Medium.woff') format('woff'),
+        url('../fonts/Lato-Medium/Lato-Medium.ttf') format('truetype'),
+        url('../fonts/Lato-Medium/Lato-Medium.svg#Lato-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Semibold/Lato-Semibold.eot');
+    src: url('../fonts/Lato-Semibold/Lato-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Semibold/Lato-Semibold.woff2') format('woff2'),
+        url('../fonts/Lato-Semibold/Lato-Semibold.woff') format('woff'),
+        url('../fonts/Lato-Semibold/Lato-Semibold.ttf') format('truetype'),
+        url('../fonts/Lato-Semibold/Lato-Semibold.svg#Lato-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Georgia';
+    src: url('../fonts/Georgia/Georgia.eot');
+    src: url('../fonts/Georgia/Georgia.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Georgia/Georgia.woff2') format('woff2'),
+        url('../fonts/Georgia/Georgia.woff') format('woff'),
+        url('../fonts/Georgia/Georgia.ttf') format('truetype'),
+        url('../fonts/Georgia/Georgia.svg#Georgia') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Georgia';
+    src: url('../fonts/Georgia-Bold/Georgia-Bold.eot');
+    src: url('../fonts/Georgia-Bold/Georgia-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Georgia-Bold/Georgia-Bold.woff2') format('woff2'),
+        url('../fonts/Georgia-Bold/Georgia-Bold.woff') format('woff'),
+        url('../fonts/Georgia-Bold/Georgia-Bold.ttf') format('truetype'),
+        url('../fonts/Georgia-Bold/Georgia-Bold.svg#Georgia-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('../fonts/Avenir-Black/Avenir-Black.eot');
+    src: url('../fonts/Avenir-Black/Avenir-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Avenir-Black/Avenir-Black.woff2') format('woff2'),
+        url('../fonts/Avenir-Black/Avenir-Black.woff') format('woff'),
+        url('../fonts/Avenir-Black/Avenir-Black.ttf') format('truetype'),
+        url('../fonts/Avenir-Black/Avenir-Black.svg#Avenir-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
